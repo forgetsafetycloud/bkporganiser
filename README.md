@@ -4,9 +4,9 @@ Um aplicativo de organização de backups e armazenamento de arquivos com uma es
 
 ## 📸 Screenshots
 
-![Tela 01](docs/screenshots/screen01.jpeg)
-![Tela 02](docs/screenshots/screen02.jpeg)
-![Tela 03](docs/screenshots/screen03.jpeg)
+Home             |  New Unit         |  Search
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="docs/screenshots/Screen01.jpeg" width="200px">  | <img src="docs/screenshots/Screen02.jpeg" width="200px"> | <img src="docs/screenshots/Screen03.jpeg" width="200px">
 
 ## 🚀 Funcionalidades Principais
 
